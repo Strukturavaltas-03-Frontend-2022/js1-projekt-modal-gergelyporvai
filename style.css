@@ -103,7 +103,7 @@ body {
   margin: 0;
   width: 100%;
   align-content: center;
-  padding-top: 40%;
+  padding-top: 17%;
 }
 
 .modal-content {
@@ -124,6 +124,7 @@ body {
   color: black;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 #modal__title {
